@@ -16,6 +16,7 @@
 		C92A43BD2C720E6F00CC5630 /* Chapter4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A43BC2C720E6F00CC5630 /* Chapter4Tests.swift */; };
 		C92A43C72C720E6F00CC5630 /* Chapter4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A43C62C720E6F00CC5630 /* Chapter4UITests.swift */; };
 		C92A43C92C720E6F00CC5630 /* Chapter4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A43C82C720E6F00CC5630 /* Chapter4UITestsLaunchTests.swift */; };
+		C9B57A262C758845004EA80F /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B57A252C758845004EA80F /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C92A43C22C720E6F00CC5630 /* Chapter4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Chapter4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C92A43C62C720E6F00CC5630 /* Chapter4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4UITests.swift; sourceTree = "<group>"; };
 		C92A43C82C720E6F00CC5630 /* Chapter4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C9B57A252C758845004EA80F /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C92A43A52C720E6C00CC5630 /* AppDelegate.swift */,
 				C92A43A72C720E6C00CC5630 /* SceneDelegate.swift */,
 				C92A43A92C720E6C00CC5630 /* ViewController.swift */,
+				C9B57A252C758845004EA80F /* ResultViewController.swift */,
 				C92A43AB2C720E6C00CC5630 /* Main.storyboard */,
 				C92A43AE2C720E6F00CC5630 /* Assets.xcassets */,
 				C92A43B02C720E6F00CC5630 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				C92A43AA2C720E6C00CC5630 /* ViewController.swift in Sources */,
 				C92A43A62C720E6C00CC5630 /* AppDelegate.swift in Sources */,
 				C92A43A82C720E6C00CC5630 /* SceneDelegate.swift in Sources */,
+				C9B57A262C758845004EA80F /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
